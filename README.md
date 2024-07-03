@@ -1,4 +1,4 @@
-# api-serverest-rest-assured
+# mantisWEB
 **Automação Web com Selenium WebDriver e JUnit**
 
 Este projeto tem como objetivo a automatização dos cenários de testes para a aplicação WEB Mantis. 
