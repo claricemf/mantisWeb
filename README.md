@@ -37,7 +37,7 @@ mantisWeb/
 ```
 ___
 **Casos de Testes:**
-
+```
 LoginTest
     Não é permitido acessar a página de senha (login_password_page.php) sem informar Nome de usuario
     Permite entrar com Nome de usuário e Senha Válidos
@@ -45,6 +45,7 @@ LoginTest
     Não é permitido entrar com Senha vazia
 
 TarefasTest
-  PermiteCriarTarefaDadosValidosSucesso
-  Não é permitido criar tarefa com token de segurança inválido
-  Não é permitido criar tarefa sem informar Categoria
+    PermiteCriarTarefaDadosValidosSucesso
+    Não é permitido criar tarefa com token de segurança inválido
+    Não é permitido criar tarefa sem informar Categoria
+```
