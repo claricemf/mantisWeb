@@ -6,9 +6,7 @@ public class TarefaDataFactory {
     private static final Faker faker = new Faker();
 
     public TarefaDataFactory(){
-
     }
-
     public static String returnRandomCategoria() {
         return faker.options().option("[Todos os Projetos] categoria teste", "[Todos os Projetos] nova categoria");
     }
