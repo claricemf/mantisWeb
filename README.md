@@ -49,3 +49,16 @@ TarefasTest
     Não é permitido criar tarefa com token de segurança inválido
     Não é permitido criar tarefa sem informar Categoria
 ```
+
+___
+**Arquivo de Configuração**
+
+No arquivo de configuração *general.properties*, os campos *user* e *password* deverão ser informados com dados válidos de usuário com perfil de Relator.
+```
+url.base = https://mantis-prova.base2.com.br/
+webdriver.chrome.driver = C:\driver\chromedriver.exe
+timeout = 10
+user = 
+password = 
+```
+___
